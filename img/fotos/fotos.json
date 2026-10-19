@@ -1,0 +1,392 @@
+[
+ {
+  "nombre": "portada-gabinete",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1799,
+  "origen": "instagram/CWvHIYxsKbO.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1799
+ },
+ {
+  "nombre": "portada-sala",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1800,
+  "origen": "instagram/CXO3L7tMNGk.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1800
+ },
+ {
+  "nombre": "portada-recepcion",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1660,
+  "origen": "instagram/CmWVtTjMJ-__2.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1660
+ },
+ {
+  "nombre": "gabinete2",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1800,
+  "origen": "instagram/CZMw1NpMC-b.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1800
+ },
+ {
+  "nombre": "rayos",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1800,
+  "origen": "instagram/CmqolEjMhL7_2.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1800
+ },
+ {
+  "nombre": "rayos-puerta",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1800,
+  "origen": "instagram/CmqolEjMhL7.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1800
+ },
+ {
+  "nombre": "material",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1439,
+  "origen": "instagram/Cx_DiSPNqJL.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1439
+ },
+ {
+  "nombre": "pieza-mano",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1440,
+  "origen": "instagram/Cx_DiSPNqJL_4.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1440
+ },
+ {
+  "nombre": "cajas",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1440,
+  "origen": "instagram/Cx_DiSPNqJL_2.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1440
+ },
+ {
+  "nombre": "esterilizacion",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1600,
+   2200
+  ],
+  "ancho": 2200,
+  "alto": 2200,
+  "origen": "instagram/C4FwIywtrBp.jpg",
+  "ancho_origen": 3999,
+  "alto_origen": 3999
+ },
+ {
+  "nombre": "raton",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1600,
+  "origen": "instagram/Cq49cYktWtq.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1600
+ },
+ {
+  "nombre": "raton-rincon",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1440,
+  "origen": "instagram/CnNGZySs4xp.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1440
+ },
+ {
+  "nombre": "tarjeta",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1920,
+  "origen": "instagram/DUlu9gHiBO6.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1920
+ },
+ {
+  "nombre": "estetica",
+  "anchos": [
+   480,
+   800,
+   1200,
+   1440
+  ],
+  "ancho": 1440,
+  "alto": 1080,
+  "origen": "instagram/CgzAVbLsYlv.jpg",
+  "ancho_origen": 1440,
+  "alto_origen": 1080
+ },
+ {
+  "nombre": "fachada-2016",
+  "anchos": [
+   480,
+   800
+  ],
+  "ancho": 800,
+  "alto": 533,
+  "origen": "otras/wayback-2016-arteixo1.jpg",
+  "ancho_origen": 800,
+  "alto_origen": 533
+ },
+ {
+  "nombre": "fachada",
+  "anchos": [
+   480,
+   800,
+   1080
+  ],
+  "ancho": 1080,
+  "alto": 545,
+  "origen": "instagram/DAIafthNtZj.jpg",
+  "ancho_origen": 1080,
+  "alto_origen": 545
+ },
+ {
+  "nombre": "equipo",
+  "anchos": [
+   480,
+   800,
+   1080
+  ],
+  "ancho": 1080,
+  "alto": 460,
+  "origen": "instagram/DBOJxBRtdpN.jpg",
+  "ancho_origen": 1080,
+  "alto_origen": 460
+ },
+ {
+  "nombre": "r-bea",
+  "anchos": [
+   300
+  ],
+  "ancho": 300,
+  "alto": 375,
+  "origen": "instagram/DXzPynwCPcf.jpg",
+  "ancho_origen": 300,
+  "alto_origen": 375
+ },
+ {
+  "nombre": "r-patri",
+  "anchos": [
+   273
+  ],
+  "ancho": 273,
+  "alto": 342,
+  "origen": "instagram/DXzPynwCPcf.jpg",
+  "ancho_origen": 273,
+  "alto_origen": 342
+ },
+ {
+  "nombre": "r-irene",
+  "anchos": [
+   290
+  ],
+  "ancho": 290,
+  "alto": 362,
+  "origen": "instagram/DXzPynwCPcf.jpg",
+  "ancho_origen": 290,
+  "alto_origen": 362
+ },
+ {
+  "nombre": "r-uxia",
+  "anchos": [
+   268
+  ],
+  "ancho": 268,
+  "alto": 335,
+  "origen": "instagram/DXzPynwCPcf.jpg",
+  "ancho_origen": 268,
+  "alto_origen": 335
+ },
+ {
+  "nombre": "r-ana",
+  "anchos": [
+   280
+  ],
+  "ancho": 280,
+  "alto": 350,
+  "origen": "instagram/DXzPynwCPcf.jpg",
+  "ancho_origen": 280,
+  "alto_origen": 350
+ },
+ {
+  "nombre": "r-anabel",
+  "anchos": [
+   250
+  ],
+  "ancho": 250,
+  "alto": 312,
+  "origen": "instagram/DXzPynwCPcf.jpg",
+  "ancho_origen": 250,
+  "alto_origen": 312
+ },
+ {
+  "nombre": "r-jenny",
+  "anchos": [
+   280
+  ],
+  "ancho": 280,
+  "alto": 350,
+  "origen": "instagram/DXzPynwCPcf.jpg",
+  "ancho_origen": 280,
+  "alto_origen": 350
+ },
+ {
+  "nombre": "caso-carillas-antes",
+  "anchos": [
+   480,
+   800,
+   1159
+  ],
+  "ancho": 1159,
+  "alto": 688,
+  "origen": "instagram/DP09iQciAxO_2.jpg",
+  "ancho_origen": 1159,
+  "alto_origen": 688
+ },
+ {
+  "nombre": "caso-carillas-despues",
+  "anchos": [
+   480,
+   800,
+   1159
+  ],
+  "ancho": 1159,
+  "alto": 688,
+  "origen": "instagram/DP09iQciAxO_2.jpg",
+  "ancho_origen": 1159,
+  "alto_origen": 688
+ },
+ {
+  "nombre": "caso-mancha-antes",
+  "anchos": [
+   480,
+   800,
+   1159
+  ],
+  "ancho": 1159,
+  "alto": 688,
+  "origen": "instagram/DLh2cJws2-f_2.jpg",
+  "ancho_origen": 1159,
+  "alto_origen": 688
+ },
+ {
+  "nombre": "caso-mancha-despues",
+  "anchos": [
+   480,
+   800,
+   1159
+  ],
+  "ancho": 1159,
+  "alto": 688,
+  "origen": "instagram/DLh2cJws2-f_2.jpg",
+  "ancho_origen": 1159,
+  "alto_origen": 688
+ },
+ {
+  "nombre": "caso-espacio-antes",
+  "anchos": [
+   480,
+   800,
+   1159
+  ],
+  "ancho": 1159,
+  "alto": 688,
+  "origen": "instagram/DMajsPlMBqi_2.jpg",
+  "ancho_origen": 1159,
+  "alto_origen": 688
+ },
+ {
+  "nombre": "caso-espacio-despues",
+  "anchos": [
+   480,
+   800,
+   1159
+  ],
+  "ancho": 1159,
+  "alto": 688,
+  "origen": "instagram/DMajsPlMBqi_2.jpg",
+  "ancho_origen": 1159,
+  "alto_origen": 688
+ }
+]

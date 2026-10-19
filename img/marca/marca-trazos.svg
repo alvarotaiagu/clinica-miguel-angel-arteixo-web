@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="marca-trazos" viewBox="0 0 841.5 1434" fill="currentColor" role="img" aria-label="Miguel Ángel Clínicas Dentales">
+<!--
+  Símbolo de Miguel Ángel Clínicas Dentales preparado para dibujarse en una cortina de entrada.
+
+  Cada trazo es su relleno exacto (el mismo de marca.svg) visto a través de una máscara.
+  La máscara es la LÍNEA CENTRAL del trazo (.trazo, pathLength="1") con un grosor que tapa
+  todo el relleno. Al animar stroke-dashoffset de 1 a 0 la línea crece y el relleno aparece
+  con su forma exacta.
+
+    dashoffset 1 = no se ve nada · 0,5 = medio trazo · 0 = trazo completo (estado por defecto).
+
+  Uso (el SVG tiene que ir EN LÍNEA en el HTML; dentro de <img> no se anima):
+
+    .marca-trazos .trazo { stroke-dashoffset: 1; }
+    .marca-trazos.dibuja .trazo { animation: trazo .9s cubic-bezier(.65,0,.35,1) forwards; }
+    .marca-trazos.dibuja #trazo-luna-der { animation-delay: .15s; }
+    .marca-trazos.dibuja #trazo-m        { animation-delay: .45s; }
+    @keyframes trazo { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .marca-trazos .trazo { stroke-dashoffset: 0; animation: none; }
+    }
+
+  Con GSAP:
+    gsap.fromTo(svg.querySelectorAll('.trazo'), { strokeDashoffset: 1 },
+                { strokeDashoffset: 0, duration: .9, ease: 'expo.inOut', stagger: .2 });
+
+  El arranque de cada línea sale por fuera del relleno, así que el remate redondo no deja
+  ningún punto visible a dashoffset 1. El color es currentColor. Si pegas el SVG dos veces en
+  la misma página, cambia los id (rellenos, trazos y máscaras) de la segunda copia.
+-->
+  <defs>
+    <path id="luna-izq" d="M220.1 54.4C209.1 99.2 193 143.8 183.1 188.8C136.3 400.9 179.4 566.2 298.3 744.8C251.4 791.1 207.5 841.3 186.5 905.1C150.9 1013 198.4 1310.6 210.2 1430.5C-18.1 982.3 -118.7 478.7 220.1 54.4Z"/>
+    <path id="luna-der" d="M747 262.5C813.9 401.3 854 548.8 832.5 711.3C820 806 791.3 896.6 763.7 987.6C723.9 1118.4 685.4 1249.5 644.5 1380.1C640.4 1298.4 652.1 1246.7 657.1 1168.8C671.4 942.1 690.9 633.5 602.1 422.6C587.5 387.7 565.2 354.8 545.1 323.1L747 262.5Z"/>
+    <path id="m" d="M561.9 349.4C556.3 340.5 550.6 331.8 545.1 323.1C525.9 448.5 482.2 561.3 410.2 665.6C286.9 575.2 242.6 454.1 242.6 305.1C242.6 250.6 247.1 195.9 264.5 143.8C279 100.6 303 61.5 326.9 23.2C361.3 76.7 392.3 131.7 431.3 182.2C489 125.1 541.4 64.9 592.2 1.6C654.5 94.5 714.7 189.9 759.9 290L561.9 349.4Z"/>
+    <!-- luna-izq: de la raíz (abajo) a la corona -->
+    <mask id="mascara-luna-izq" maskUnits="userSpaceOnUse" x="0" y="0" width="841.5" height="1434">
+      <path id="trazo-luna-izq" class="trazo" d="M261.5 1605.1C204 1409.1 106.6 1145.9 108.8 937.6C109.6 867.3 142.2 800.1 140.1 730.7C138.5 678.1 119.3 625.9 112.1 573.8C85.6 382.5 142.2 213 225.4 43.6" fill="none" stroke="#fff" stroke-width="340" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1 1" stroke-dashoffset="0"/>
+    </mask>
+    <!-- luna-der: de la raíz (abajo) a la unión con la M -->
+    <mask id="mascara-luna-der" maskUnits="userSpaceOnUse" x="0" y="0" width="841.5" height="1434">
+      <path id="trazo-luna-der" class="trazo" d="M620.7 1522.4C634 1442.6 646.3 1362.4 662 1282.9C702.9 1076.5 765.9 862 749.8 649.7C744.2 576.9 730 453.6 685.6 394.2C658.6 358 614 363.4 579.6 341C578.6 340.4 577.4 339.4 577.4 338.1C577.2 335 649.1 290.9 656.2 286.4" fill="none" stroke="#fff" stroke-width="258" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1 1" stroke-dashoffset="0"/>
+    </mask>
+    <!-- m: de izquierda a derecha: pico izquierdo, pie, pico derecho y bajada hasta la luna derecha -->
+    <mask id="mascara-m" maskUnits="userSpaceOnUse" x="0" y="0" width="841.5" height="1434">
+      <path id="trazo-m" class="trazo" d="M329.7 -82.7C330.3 119.2 317.9 326.1 349.8 526.2C351.3 535.4 361.3 602.9 376.6 599.9C391.3 597 408.6 541.7 413 529.4C434.3 468.9 454.8 406.9 470.4 344.7C486.9 278.6 497.8 210.8 518.2 145.7C557.8 19.8 597.6 137.2 623.1 196.4C651.7 262.6 665.7 312 676.8 381.9" fill="none" stroke="#fff" stroke-width="223" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1 1" stroke-dashoffset="0"/>
+    </mask>
+  </defs>
+  <use href="#luna-izq" mask="url(#mascara-luna-izq)"/>
+  <use href="#luna-der" mask="url(#mascara-luna-der)"/>
+  <use href="#m" mask="url(#mascara-m)"/>
+</svg>

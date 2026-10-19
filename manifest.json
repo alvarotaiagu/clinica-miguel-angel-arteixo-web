@@ -1,0 +1,10 @@
+{
+  "name": "Clínica Dental Miguel Ángel",
+  "short_name": "Miguel Ángel",
+  "lang": "es",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#f4f6fa",
+  "theme_color": "#1a398c",
+  "icons": [{ "src": "marca/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }, { "src": "marca/icono-512.png", "sizes": "512x512", "type": "image/png" }]
+}
